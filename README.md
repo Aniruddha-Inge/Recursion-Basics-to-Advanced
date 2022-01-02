@@ -1,5 +1,5 @@
 # Recursion-Basics-to-Advanced-Series-By-Striver
-This repo contains all the questions and their solutions (in Java) which are discussed in the Recursion playlist of Striver
+This repo contains all the questions and their solutions (in Java) which are discussed in the [Recursion playlist](https://youtube.com/playlist?list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9) of Striver
 
 ## Q1 Print a name N times using Recursion
 [Solution](https://github.com/Aniruddha-Inge/Recursion-Basics-to-Advanced-Series-By-Striver/blob/main/codes/src/com/aniruddha/Q1/PrintANameNTimes.java)
